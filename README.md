@@ -35,3 +35,7 @@
 ## :pencil: 개인 공부 현황
 
 ### 1주차(19.09.16 ~ 19.09.23)
+-[xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter1_xiah/chapter1/summary.js) [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter2_xiah/chapter2/Arrangement.md)
+
+### 2주차(19.09.24 ~ 19.09.29)
+- [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter3_xiah/chapter3/Stack.md)
