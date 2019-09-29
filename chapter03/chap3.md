@@ -1,5 +1,5 @@
 
-#Stack
+# Stack
 ```javascript
 var items = [];
 var head = 0;
