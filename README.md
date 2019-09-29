@@ -30,9 +30,23 @@
 2. 배열
 
 ---
+### 2주차(19.09.24 ~ 19.09.29)
 
+1. 스택
+
+---
 
 ## :pencil: 개인 공부 현황
 
-### 1주차(19.09.16 ~ 19.09.23)
-yongseon test
+
+### 1주차(19.09.16 ~ 19.09.23) 배열
+- [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter1_xiah/chapter1/summary.js) [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter2_xiah/chapter2/Arrangement.md)
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_01/chapter_01.md)
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_02/chapter_02.md)
+- [kimchunyong](https://github.com/kimchunyong/Learning-JavaScript-Data-Structures-and-Algorithms/blob/kimchunyong/chapter_01/array.js)
+
+### 2주차(19.09.24 ~ 19.09.29) 스택
+- [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter3_xiah/chapter3/Stack.md)
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_03/chapter_03.md)
+- [yongseon](https://github.com/yongseon01/Learning-JavaScript-Data-Structures-and-Algorithms/blob/yongseon/chapter03/chap3.md)
+
